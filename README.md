@@ -1,4 +1,4 @@
-# EstiloAI 
+# EstiloAI -- Decode trends. Understand voices. Power fashion marketing with AI.
 
 **EstiloAI** is an AI-powered insight engine that helps fashion marketers decode customer sentiment, uncover emerging trends, optimize campaign messaging, and build rich audience personas—at scale.
 

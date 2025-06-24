@@ -1,0 +1,17 @@
+EstiloAI/
+│
+├── data/
+│   └── raw/processed/
+│
+├── notebooks/
+│   ├── 01_sentiment_pulse.ipynb
+│   ├── 02_trend_forecaster.ipynb
+│   ├── 03_message_optimizer.ipynb
+│   └── 04_persona_synthesizer.ipynb
+│
+├── models/
+├── dashboards/
+├── app/ (optional Streamlit app later)
+├── assets/ (images, visuals, logos)
+├── README.md
+└── roadmap.md
